@@ -1,4 +1,4 @@
-### Basic movie tracker
+## Basic movie tracker
 
 ### Summary
 Expo app created with react native and redux, let's users search for movies and add to to watch list or favorites list
